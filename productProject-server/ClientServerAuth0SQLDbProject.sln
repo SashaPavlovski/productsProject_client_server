@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerAuth0SQLDbProject.Dal", "ClientServerAuth0SQLDbProject.Dal\ClientServerAuth0SQLDbProject.Dal.csproj", "{30105BFF-F04A-4D63-B4D3-1C5BE9B4B341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerAuth0SQLDbProject.Model", "ClientServerAuth0SQLDbProject.Model\ClientServerAuth0SQLDbProject.Model.csproj", "{75F8D885-830B-45B2-AFA9-76F14AE6BCFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerAuth0SQLDbProject.Entites", "ClientServerAuth0SQLDbProject.Entites\ClientServerAuth0SQLDbProject.Entites.csproj", "{1951335F-CD04-4BF4-8F1D-5992778A9360}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerAuth0SQLDbProject.frmUI", "hhhhh\ClientServerAuth0SQLDbProject.frmUI.csproj", "{40BE241A-A7EB-49B7-9E28-165163D674D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientServerAuth0SQLDbProject.MiniServer", "ClientServerAuth0SQLDbProject.MiniServer\ClientServerAuth0SQLDbProject.MiniServer.csproj", "{9CB3AAA9-AF3E-4A7E-9EF2-A42C441B0200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30105BFF-F04A-4D63-B4D3-1C5BE9B4B341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30105BFF-F04A-4D63-B4D3-1C5BE9B4B341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30105BFF-F04A-4D63-B4D3-1C5BE9B4B341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30105BFF-F04A-4D63-B4D3-1C5BE9B4B341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F8D885-830B-45B2-AFA9-76F14AE6BCFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F8D885-830B-45B2-AFA9-76F14AE6BCFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F8D885-830B-45B2-AFA9-76F14AE6BCFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F8D885-830B-45B2-AFA9-76F14AE6BCFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1951335F-CD04-4BF4-8F1D-5992778A9360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1951335F-CD04-4BF4-8F1D-5992778A9360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1951335F-CD04-4BF4-8F1D-5992778A9360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1951335F-CD04-4BF4-8F1D-5992778A9360}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BE241A-A7EB-49B7-9E28-165163D674D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BE241A-A7EB-49B7-9E28-165163D674D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BE241A-A7EB-49B7-9E28-165163D674D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BE241A-A7EB-49B7-9E28-165163D674D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB3AAA9-AF3E-4A7E-9EF2-A42C441B0200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB3AAA9-AF3E-4A7E-9EF2-A42C441B0200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB3AAA9-AF3E-4A7E-9EF2-A42C441B0200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB3AAA9-AF3E-4A7E-9EF2-A42C441B0200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3B75532-9498-4EFF-97B0-BF96D7888A79}
+	EndGlobalSection
+EndGlobal

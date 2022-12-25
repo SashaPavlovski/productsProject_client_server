@@ -1,0 +1,29 @@
+.myNavBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.myNavbar {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+}
+.Profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-left: 10px;
+  width: 100px;
+  height: 100px;
+}
+.my-picture {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+}
+.my-user {
+  font-size: small;
+}
